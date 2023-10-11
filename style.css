@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(149, 192, 241);
+}
+header{
+    background-color: aqua;
+    border-radius: 30px;
+    font-size: 40px;
+    color: rgb(72, 74, 161);
+    text-align: center;
+}
+
+ol{
+    font-size: 30px;
+}
+
+form{
+    text-align: center;
+    border-color: blue;
+    
+}
+label{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+#Enviar{
+    background-color: rgb(101, 247, 101);
+    border-top-left-radius:10px;
+    height: 50px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: large;
+}
+#Volver{
+    background-color: rgb(223, 78, 228);
+    border-top-left-radius:10px;
+    height: 50px;
+    font-family: cursive; 
+    font-weight: bold;
+    font-size: large;
+}
+#titulo{
+    font-size: large;
+    font-style: oblique;
+}
+table{
+    margin-left:auto;
+    margin-right: auto;
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    border: 3px solid rgb(18, 7, 116);
+    border-radius: 6px;
+}
+input{
+    border: 2px solid rgb(45, 62, 141);
+    border-radius: 6px;
+}
+
+
+            
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:25px;
+    } 
+    nav li{
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color:#1d0bbd;
+    border:3px solid #1d0bbd;
+    border-radius: 7px;
+    text-align:center;
+    color:#ffffff;
+    }
+    nav li:hover{
+    background-color:#e02b1eda;
+    color:#000;
+    }
+
+img{
+    height: 25%;
+    width: 120px;
+}
