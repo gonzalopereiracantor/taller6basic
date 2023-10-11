@@ -83,3 +83,8 @@ img{
     height: 25%;
     width: 120px;
 }
+
+th{
+    color: #ecebf1;
+    background-color: #09023f;
+}
